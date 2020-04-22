@@ -1,24 +1,18 @@
 # Installation
-### Download and change folder
+### Download, change folder, install
 ```
 cd ~
-git clone https://github.com/flipsidecreations/dotfiles.git
-
+git clone https://github.com/TheFireMind-Tech/dotfiles.git
 cd dotfiles
-```
-### Run install
-```
 ./install.sh
 ```
 
+
 # Uninstallation
 
-### Change to dotfiles folder
+### Change to dotfiles folder and uninstall
 ```
 cd ~/dotfiles
-```
-
-### Run uninstaller
-```
 ./uninstall.sh
 ```
+
